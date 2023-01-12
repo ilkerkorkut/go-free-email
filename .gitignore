@@ -1,0 +1,14 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+.idea/
+
+.DS_Store
+.tmp
+.data
+.env
