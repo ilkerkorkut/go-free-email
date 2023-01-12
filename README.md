@@ -1,6 +1,6 @@
 # go-free-email
 
-![Last version](https://img.shields.io/github/tag/ilkerkorkut/go-free-email.svg)
+![Last version](https://img.shields.io/github/v/release/ilkerkorkut/go-free-email)
 [![License](https://img.shields.io/github/license/ilkerkorkut/go-free-email.svg)](LICENSE)
 
 > A comprehensive list of all free email domain providers. Based on [HubSpot blocked domains](https://knowledge.hubspot.com/articles/kcs_article/forms/what-domains-are-blocked-when-using-the-forms-email-domains-to-block-feature).
